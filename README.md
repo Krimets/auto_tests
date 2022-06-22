@@ -1,2 +1,2 @@
 # auto_tests
-git git git
+git git
